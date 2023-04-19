@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chetan Kumawat</h1>
 <h3 align="center">A passionate Sofyware Engineer from India</h3>
-<img align="right" alt="Coding image" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw0PXI2D32ugXHRBVIOcTzTd&ust=1682010783427000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDi08u4tv4CFQAAAAAdAAAAABBB">
+<img align="right" alt="Coding image" width="400" src="![image](https://user-images.githubusercontent.com/109906805/233152583-2f720164-fe75-4e91-b5d7-86b1b80838ed.png)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetankmwt&label=Profile%20views&color=0e75b6&style=flat" alt="chetankmwt" /> </p>
 
